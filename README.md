@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img align="right" alt="coding" width="500" src="https://media.discordapp.net/attachments/1023651956767600640/1034870324862398585/chat.gif?ex=66b79918&is=66b64798&hm=861f43081e73844172da91d40cb2d351e9ea9bdbab4f67c1687190341d0869a8&)">
+
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
