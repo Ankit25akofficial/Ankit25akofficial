@@ -2,8 +2,7 @@
 
 <img align="right" alt="coding" width="500" src="https://media.discordapp.net/attachments/1023651956767600640/1034870324862398585/chat.gif?ex=66b79918&is=66b64798&hm=861f43081e73844172da91d40cb2d351e9ea9bdbab4f67c1687190341d0869a8&)">
 
-
-<h3 align="right">A passionate frontend developer</h3>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Valoon&weight=500&pause=1000&color=F70404&width=435&lines=I+am+a+passionate+developer+;I+am+a+student+;I+do+freelancing." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit25akofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ankit25akofficial" /> </p>
 
