@@ -26,4 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit25akofficial&show_icons=true&locale=en" alt="ankit25akofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit25akofficial&" alt="ankit25akofficial" /></p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
