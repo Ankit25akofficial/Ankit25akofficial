@@ -13,18 +13,16 @@
 
 ## 📈 LeetCode Stats
 
-<p align="center">
+<div align="center">
   <a href="https://leetcode.com/u/ankitkumar_ak/">
     <img src="https://leetcard.jacoblin.cool/ankitkumar_ak?border=0&radius=20&theme=dark&ext=heatmap" alt="Ankit's LeetCode Stats" />
   </a>
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Problems Medal" style="width: 200px; height: auto;">
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Problems Medal" style="width: 200px; height: auto;">
-  <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="200 Problems Medal" style="width: 200px; height: auto;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Problems Medal" style="width: 200px; height: auto;">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Problems Medal" style="width: 200px; height: auto;">
+    <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="200 Problems Medal" style="width: 200px; height: auto;">
+  </div>
 </div>
-  
-</p>
-
 
 
 
