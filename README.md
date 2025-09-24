@@ -11,6 +11,15 @@
 </div>
 
 
+## 📈 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/ankitkumar_ak/">
+    <img src="https://leetcard.jacoblin.cool/ankitkumar_ak?border=0&radius=20&theme=dark&ext=heatmap" alt="Ankit's LeetCode Stats" />
+  </a>
+</p>
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ankit25akofficial&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" /> </p>
@@ -24,7 +33,16 @@
 - 📫 How to reach me **ankitkumar252508@gmail.com**
 
 
+
+
+
+
+
+
+
+
 ## 🌐 Connect With Me
+
 
 <p align="left">
   <a href="https://in.linkedin.com/in/ankitofficial25?trk=profile-badge" target="_blank">
