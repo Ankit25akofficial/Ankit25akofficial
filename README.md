@@ -75,3 +75,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github-snake" src="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+
+<!-- ~packman -->
+<h3 align="left"> 👾 Packman:</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hxrdikk/hxrdikk/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+</p>
+
+<p align="left">
+~ Just like Pac-Man chasing dots, my streaks are built one commit at a time ~ small steps that keep the game going.  
+Every day of consistency adds to the fun, turning progress into a high score 🚀.
+</p>
