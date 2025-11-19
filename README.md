@@ -21,6 +21,7 @@
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Problems Medal" style="width: 200px; height: auto;">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Problems Medal" style="width: 200px; height: auto;">
     <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="200 Problems Medal" style="width: 200px; height: auto;">
+    <img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="300 Problems Medal" style="width: 200px; height: auto;">
   </div>
 </div>
 
