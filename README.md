@@ -1,5 +1,8 @@
  <!--![logo](https://github.com/Ankit25akofficial/Ankit25akofficial/blob/main/animation1.gif )-->
-<img width="736" height="414" alt="NF2U-ascii-animation" src="https://github.com/user-attachments/assets/4f8f43e2-0c36-48da-8f02-4d60b60aa53d" />
+
+<img width="736" height="414" alt="gojo" src="https://github.com/user-attachments/assets/ae6a08fe-70f5-427c-8deb-70513cd1c7a4" />
+
+
 
 
 <img align="right" alt="coding" width="500" src="https://media.discordapp.net/attachments/1023651956767600640/1034870324862398585/chat.gif?ex=66b79918&is=66b64798&hm=861f43081e73844172da91d40cb2d351e9ea9bdbab4f67c1687190341d0869a8&)">
