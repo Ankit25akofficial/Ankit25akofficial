@@ -1,4 +1,10 @@
- <!--![logo](https://github.com/Ankit25akofficial/Ankit25akofficial/blob/main/animation1.gif )-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Ankit Kumar Profile Banner" src="dark.svg" width="100%">
+</picture>
+
+<!--![logo](https://github.com/Ankit25akofficial/Ankit25akofficial/blob/main/animation1.gif )-->
 
 <img width="736" height="414" alt="gojo" src="https://github.com/user-attachments/assets/ae6a08fe-70f5-427c-8deb-70513cd1c7a4" />
 
