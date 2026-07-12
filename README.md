@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Ankit Kumar Profile Banner" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=3">
+  <img alt="Ankit Kumar Profile Banner" src="dark.svg?v=3" width="100%">
 </picture>
 
 <!--![logo](https://github.com/Ankit25akofficial/Ankit25akofficial/blob/main/animation1.gif )-->
