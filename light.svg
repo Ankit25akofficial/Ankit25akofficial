@@ -69,11 +69,11 @@
   <style>
     
     .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; font-weight: bold; }
-    .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #2563EB; font-weight: bold; }
-    .value  { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #0F172A; }
-    .cc     { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #94A3B8; }
+    .key    { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #2563EB; font-weight: bold; }
+    .value  { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #0F172A; }
+    .cc     { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #94A3B8; }
     .head   { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #1D4ED8; font-weight: bold; }
-    .accent { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #059669; font-weight: bold; }
+    .accent { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #059669; font-weight: bold; }
     .link-hover { transition: fill 0.2s; cursor: pointer; }
     .link-hover:hover { fill: #2563EB !important; text-decoration: underline; }
     .link-hover-accent { transition: fill 0.2s; cursor: pointer; }
@@ -180,7 +180,7 @@
     <text x="520" y="0">
       <tspan x="520" y="66" class="cc">. </tspan>
       <tspan class="key">Subject</tspan>
-      <tspan class="cc">: .......................... </tspan>
+      <tspan class="cc">: ............. </tspan>
       <tspan class="value">Ankit Kumar</tspan>
     </text>
   </g>
@@ -190,7 +190,7 @@
     <text x="520" y="0">
       <tspan x="520" y="88" class="cc">. </tspan>
       <tspan class="key">Role</tspan>
-      <tspan class="cc">: ............................. </tspan>
+      <tspan class="cc">: ................ </tspan>
       <tspan class="value">Full-Stack Dev · Software Engineer</tspan>
     </text>
   </g>
@@ -200,7 +200,7 @@
     <text x="520" y="0">
       <tspan x="520" y="110" class="cc">. </tspan>
       <tspan class="key">Origin</tspan>
-      <tspan class="cc">: ........................... </tspan>
+      <tspan class="cc">: .............. </tspan>
       <tspan class="value">Punjab, India</tspan>
     </text>
   </g>
@@ -210,7 +210,7 @@
     <text x="520" y="0">
       <tspan x="520" y="132" class="cc">. </tspan>
       <tspan class="key">Education</tspan>
-      <tspan class="cc">: ......................... </tspan>
+      <tspan class="cc">: ........... </tspan>
       <tspan class="value">B.Tech CSE (2023–2027)</tspan>
     </text>
   </g>
@@ -220,7 +220,7 @@
     <text x="520" y="0">
       <tspan x="520" y="154" class="cc">. </tspan>
       <tspan class="key">Status</tspan>
-      <tspan class="cc">: ............ </tspan>
+      <tspan class="cc">: .............. </tspan>
       <tspan class="value">Building • Learning • Shipping</tspan>
     </text>
   </g>
@@ -230,7 +230,7 @@
     <text x="520" y="0">
       <tspan x="520" y="176" class="cc">. </tspan>
       <tspan class="key">ToolChain</tspan>
-      <tspan class="cc">: ................. </tspan>
+      <tspan class="cc">: ........... </tspan>
       <tspan class="value">VS Code, Git, Docker, AWS, Postman</tspan>
     </text>
   </g>
@@ -247,7 +247,7 @@
       <tspan class="key">Core</tspan>
       <tspan class="cc">.</tspan>
       <tspan class="key">Lang</tspan>
-      <tspan class="cc">: .......... </tspan>
+      <tspan class="cc">: ..... </tspan>
       <tspan class="value">JavaScript, TypeScript, PHP, C++, Python</tspan>
     </text>
   </g>
@@ -259,7 +259,7 @@
       <tspan class="key">Core</tspan>
       <tspan class="cc">.</tspan>
       <tspan class="key">Frontend</tspan>
-      <tspan class="cc">: ...... </tspan>
+      <tspan class="cc">: . </tspan>
       <tspan class="value">ReactJS, Tailwind CSS, React Flow, HTML5/CSS3</tspan>
     </text>
   </g>
@@ -271,7 +271,7 @@
       <tspan class="key">Core</tspan>
       <tspan class="cc">.</tspan>
       <tspan class="key">Backend</tspan>
-      <tspan class="cc">: ....... </tspan>
+      <tspan class="cc">: .. </tspan>
       <tspan class="value">Node.js, Express.js, Socket.IO, JWT Auth, REST</tspan>
     </text>
   </g>
@@ -283,7 +283,7 @@
       <tspan class="key">Core</tspan>
       <tspan class="cc">.</tspan>
       <tspan class="key">Database</tspan>
-      <tspan class="cc">: ...... </tspan>
+      <tspan class="cc">: . </tspan>
       <tspan class="value">MongoDB, MySQL</tspan>
     </text>
   </g>
@@ -295,7 +295,7 @@
       <tspan class="key">Core</tspan>
       <tspan class="cc">.</tspan>
       <tspan class="key">Infra</tspan>
-      <tspan class="cc">: ......... </tspan>
+      <tspan class="cc">: .... </tspan>
       <tspan class="value">Docker, AWS, Git/GitHub, Figma, Gemini API</tspan>
     </text>
   </g>
@@ -321,7 +321,7 @@
         <tspan class="key">Grid</tspan>
         <tspan class="cc">.</tspan>
         <tspan class="key">Portfolio</tspan>
-        <tspan class="cc">: .................. </tspan>
+        <tspan class="cc">: ...... </tspan>
         <tspan class="value link-hover" fill="#E5E7EB">ankit-kohl.vercel.app</tspan>
       </text>
     </a>
@@ -335,7 +335,7 @@
         <tspan class="key">Grid</tspan>
         <tspan class="cc">.</tspan>
         <tspan class="key">LinkedIn</tspan>
-        <tspan class="cc">: ................... </tspan>
+        <tspan class="cc">: ....... </tspan>
         <tspan class="value link-hover" fill="#E5E7EB">ankitofficial25</tspan>
       </text>
     </a>
@@ -349,7 +349,7 @@
         <tspan class="key">Grid</tspan>
         <tspan class="cc">.</tspan>
         <tspan class="key">Github</tspan>
-        <tspan class="cc">: ..................... </tspan>
+        <tspan class="cc">: ......... </tspan>
         <tspan class="value link-hover" fill="#E5E7EB">Ankit25akofficial</tspan>
       </text>
     </a>
@@ -363,7 +363,7 @@
         <tspan class="key">Grid</tspan>
         <tspan class="cc">.</tspan>
         <tspan class="key">Mail</tspan>
-        <tspan class="cc">: ....................... </tspan>
+        <tspan class="cc">: ........... </tspan>
         <tspan class="value link-hover" fill="#E5E7EB">ankit.devf@gmail.com</tspan>
       </text>
     </a>
