@@ -45,17 +45,18 @@
 
 
 
-## 🏆 GitHub Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ankit25akofficial&no-frame=true"alt="GitHub Trophies"/> </p>
-
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ankit25akofficial&theme=radical&hide_border=true&timezone=Asia/Kolkata" width="500" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit25akofficial&layout=compact&theme=radical&hide_border=true" width="500" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankit25akofficial&layout=compact&theme=radical&hide_border=true" width="500" alt="Top Languages" />
 </p>
+
+
+
 
 
 - 👨‍💻 All of my projects are available at [https://ankit25akofficial.github.io/portfolio-/](https://ankit25akofficial.github.io/portfolio-/)
